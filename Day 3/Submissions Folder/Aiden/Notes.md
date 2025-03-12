@@ -16,7 +16,7 @@ Stretch: Consider the cloud deployment plan and in the agile delivery plan, incl
 - Products
 - Product_Categories
 
-![Local Image](Images/Company ERD.png)
+![alt text](<Company ERD.png>)
 
 ## Agile Deployment Plan
 
