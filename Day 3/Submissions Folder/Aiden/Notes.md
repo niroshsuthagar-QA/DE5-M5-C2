@@ -16,4 +16,8 @@ Stretch: Consider the cloud deployment plan and in the agile delivery plan, incl
 - Products
 - Product_Categories
 
-![Local Image](/Company ERD.png)
+![Local Image](Images/Company ERD.png)
+
+## Agile Deployment Plan
+
+Sprint Duration: 2 Weeks
